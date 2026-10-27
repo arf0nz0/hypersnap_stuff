@@ -48,7 +48,7 @@ Template example:
 
 ### meowdy
 
-<a href="https://media.firefly.land/farcaster/26500e46-88fc-4688-a689-b1ebf60f8b50.png">
+<a href="https://media.firefly.land/farcaster/26500e46-88fc-4688-a689-b1ebf60f8b50.png" target="_blank">
   <img src="https://media.firefly.land/farcaster/26500e46-88fc-4688-a689-b1ebf60f8b50.png"
        alt="meowdy screenshot"
        width="400">
