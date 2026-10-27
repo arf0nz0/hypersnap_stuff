@@ -30,8 +30,6 @@ This is a list of hypersnap-compatible clients and applications.
 
 ### ScreenShots
 <img width="400" alt="Screenshot 2026-10-27 at 19 42 50" src="https://github.com/user-attachments/assets/359f9f22-971d-4b10-9778-91266195e88f" />
-<img width="400" alt="Screenshot 2026-10-27 at 19 48 55" src="https://github.com/user-attachments/assets/4b1c5c4b-37cf-4226-96df-f10ef18d455f" /><br>
-<img height="400" alt="photo_2026-10-27_19-46-50" src="https://github.com/user-attachments/assets/4eda8234-6e67-413d-9211-414b261a1e23" />
 
 ### Linkcast
 - Description: Discover links on Farcaster.
