@@ -23,13 +23,17 @@ This is a list of hypersnap-compatible clients and applications.
 ## Clients
 
 ### GenyCaster
+
+<a href="https://github.com/user-attachments/assets/359f9f22-971d-4b10-9778-91266195e88f" target="_blank">
+  <img src="https://github.com/user-attachments/assets/359f9f22-971d-4b10-9778-91266195e88f"
+       alt="GenyCaster screenshot"
+       width="400">
+</a>
+
 - Description: GenyCaster is a high-performance, local-first Farcaster client with a cross-platform, multi-node architecture built for the next generation of social experiences.
 - Developer: [GenyLeap](https://genyleap.com)
 - Link(s): [website](https://genycaster.xyz)
 - Pure hypersnap? ✅ (By default, with support for multiple nodes and protocols.)
-
-### ScreenShots
-<img width="400" alt="Screenshot 2026-10-27 at 19 42 50" src="https://github.com/user-attachments/assets/359f9f22-971d-4b10-9778-91266195e88f" />
 
 ### Linkcast
 - Description: Discover links on Farcaster.
