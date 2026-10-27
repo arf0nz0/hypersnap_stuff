@@ -95,6 +95,13 @@ This is a list of hypersnap-compatible clients and applications.
 ## Applications
 
 ### Forkcaster 🍴
+
+<a href="https://forkcaster.xyz/landing-dark.png" target="_blank">
+  <img src="https://forkcaster.xyz/landing-dark-400.png"
+       alt="screenshot"
+       width="400">
+</a>
+
 - Description: drop-in replacement for any farcaster or warpcast URL, letting users decide which client to use
 - Developer: [decent-artlu](https://forkcaster.xyz/decent-artlu)
 - Link(s): [forkcaster](https://forkcaster.xyz), [warpcats](https://warpcats.com), [/transparency](https://forkcaster.xyz/transparency)
