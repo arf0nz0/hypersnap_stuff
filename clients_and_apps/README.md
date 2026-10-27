@@ -65,8 +65,8 @@ Template example, no screenshot:
 
 ### meowdy
 
-<a href="https://qstorage.quilibrium.com/arfonzo/meowdy%20screenshot%20-%20hypersnap%20purist.png" target="_blank">
-  <img src="https://qstorage.quilibrium.com/arfonzo/meowdy%20screenshot%20-%20hypersnap%20purist.png"
+<a href="https://qstorage.quilibrium.com/arfonzo/meowdy_screensho_-_hypersnap_purist.png" target="_blank">
+  <img src="https://qstorage.quilibrium.com/arfonzo/meowdy_screenshot_-_hypersnap_purist_400w.jpg"
        alt="meowdy screenshot"
        width="400">
 </a>
