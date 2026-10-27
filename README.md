@@ -1,4 +1,4 @@
 # hypersnap_stuff
 Stuff related to hypersnap
 
-- [Unofficial list of hypersnap clients and apps](clients_and_apps/)
+- [hypersnap clients, apps and other neat stuff](clients_and_apps/)
