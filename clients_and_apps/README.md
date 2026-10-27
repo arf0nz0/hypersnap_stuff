@@ -2,6 +2,8 @@
 
 This is a list of hypersnap-compatible clients and applications.
 
+**Note that this list does not vouch for the security of any project: due diligence projects and developers yourself before trusting any with your keys!** ☝️😺
+
 ## Index
 
 - [Clients](#clients)
@@ -16,38 +18,7 @@ This is a list of hypersnap-compatible clients and applications.
 - [Applications](#applications)
   - [Forkcaster 🍴](#forkcaster-)
 - [Other Neat Stuff](#other-neat-stuff)
-
-**Note that this list does not vouch for the security of any project: due diligence projects and developers yourself before trusting any with your keys!** ☝️😺
-
-If you'd like your project to be added, please get in touch or submit a PR for review. Follow the alphabetical sort. 3 links maximum.
-
-Template example, with screenshot:
-```
-### Project Name
-
-<a href="https://link.to/image.jpg" target="_blank">
-  <img src="https://link.to/image.jpg"
-       alt="screenshot"
-       width="400">
-</a>
-
-- Description: a short description.
-- Developer: [dev_name](https://warpcats.com/arfonzo)
-- Link(s): [website](https://www.quorummessenger.com/)
-- Pure hypersnap? ✅/no (and add details if you want)
-```
-
-Template example, no screenshot:
-```
-### Project Name
-- Description: a short description.
-- Developer: [dev_name](https://warpcats.com/arfonzo)
-- Link(s): [website](https://www.quorummessenger.com/)
-- Pure hypersnap? ✅/no (and add details if you want)
-```
-
-- **Screenshot:** feel free to include one screenshot, max width 400 pixels. If not, remove the entire `<a>` block from your submission.
-- **Pure hypersnap?** relevant for clients and apps to show where the featureset uses hypersnap in lieu of snapchain nodes/neynar API/farcaster API: read/write operations (casts, profile, account management), communications, etc.. For example, if your client uses farcaster's API for certain features like direct messages, it should be detailed here for clarity.
+- [Add Your Project](#add-your-project)
 
 ## Clients
 
@@ -123,3 +94,34 @@ Template example, no screenshot:
 - Pure hypersnap? **no**, attempts to simulate flagship Farcaster experience
 
 ## Other Neat Stuff
+
+## Add Your Project
+If you'd like your project to be added, please get in touch or submit a PR for review. Follow the alphabetical sort. 3 links maximum.
+
+Template example, with screenshot:
+```
+### Project Name
+
+<a href="https://link.to/image.jpg" target="_blank">
+  <img src="https://link.to/image.jpg"
+       alt="screenshot"
+       width="400">
+</a>
+
+- Description: a short description.
+- Developer: [dev_name](https://warpcats.com/arfonzo)
+- Link(s): [website](https://www.quorummessenger.com/)
+- Pure hypersnap? ✅/no (and add details if you want)
+```
+
+Template example, no screenshot:
+```
+### Project Name
+- Description: a short description.
+- Developer: [dev_name](https://warpcats.com/arfonzo)
+- Link(s): [website](https://www.quorummessenger.com/)
+- Pure hypersnap? ✅/no (and add details if you want)
+```
+
+- **Screenshot:** feel free to include one screenshot, max width 400 pixels. If not, remove the entire `<a>` block from your submission.
+- **Pure hypersnap?** relevant for clients and apps to show where the featureset uses hypersnap in lieu of snapchain nodes/neynar API/farcaster API: read/write operations (casts, profile, account management), communications, etc.. For example, if your client uses farcaster's API for certain features like direct messages, it should be detailed here for clarity.
