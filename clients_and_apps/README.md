@@ -14,6 +14,7 @@ This is a list of hypersnap-compatible clients and applications.
   - [Terminus](#terminus)
   - [Vibeshift](#vibeshift)
 - [Applications](#applications)
+  - [Forkcaster 🍴](#forkcaster-)
 
 **Note that this list does not vouch for the security of any project: due diligence projects and developers yourself before trusting any with your keys!** ☝️😺
 
