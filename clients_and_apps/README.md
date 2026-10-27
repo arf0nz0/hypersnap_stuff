@@ -21,7 +21,23 @@ This is a list of hypersnap-compatible clients and applications.
 
 If you'd like your project to be added, please get in touch or submit a PR for review. Follow the alphabetical sort. 3 links maximum.
 
-Template example:
+Template example, with screenshot:
+```
+### Project Name
+
+<a href="https://link.to/image.jpg" target="_blank">
+  <img src="https://link.to/image.jpg"
+       alt="screenshot"
+       width="400">
+</a>
+
+- Description: a short description.
+- Developer: [dev_name](https://warpcats.com/arfonzo)
+- Link(s): [website](https://www.quorummessenger.com/)
+- Pure hypersnap? ✅/no (and add details if you want)
+```
+
+Template example, no screenshot:
 ```
 ### Project Name
 - Description: a short description.
@@ -30,7 +46,8 @@ Template example:
 - Pure hypersnap? ✅/no (and add details if you want)
 ```
 
-*Pure hypersnap?* relevant for clients and apps to show where the featureset uses hypersnap in lieu of snapchain nodes/neynar API/farcaster API: read/write operations (casts, profile, account management), communications, etc.. For example, if your client uses farcaster's API for certain features like direct messages, it should be detailed here for clarity.
+- **Screenshot:** feel free to include one screenshot, max width 400 pixels. If not, remove the entire `<a>` block from your submission.
+- **Pure hypersnap?** relevant for clients and apps to show where the featureset uses hypersnap in lieu of snapchain nodes/neynar API/farcaster API: read/write operations (casts, profile, account management), communications, etc.. For example, if your client uses farcaster's API for certain features like direct messages, it should be detailed here for clarity.
 
 ## Clients
 
