@@ -2,6 +2,19 @@
 
 This is a list of hypersnap-compatible clients and applications.
 
+## Index
+
+- [Clients](#clients)
+  - [GenyCaster](#genycaster)
+  - [Linkcast](#linkcast)
+  - [meowdy (unreleased)](#meowdy-unreleased)
+  - [Opencaster](#opencaster)
+  - [Quilcast](#quilcast)
+  - [Quorum](#quorum)
+  - [Terminus](#terminus)
+  - [Vibeshift](#vibeshift)
+- [Applications](#applications)
+
 **Note that this list does not vouch for the security of any project: due diligence projects and developers yourself before trusting any with your keys!** ☝️😺
 
 If you'd like your project to be added, please get in touch or submit a PR for review. Follow the alphabetical sort. 3 links maximum.
@@ -58,6 +71,12 @@ Template example:
 - Developer: [kyb](https://warpcats.com/kyb)
 - Link(s): [TestFlight](https://testflight.apple.com/join/cSPBnkud)
 - Pure hypersnap? ✅ (Every read and post goes to Hypersnap nodes, and sign-in adds a Hypersnap-only signer. Two read-only lookups go to Farcaster's public API through Terminus's proxy: the channel directory (names and images) and accounts' opt-in status.)
+
+### Vibeshift
+- Description: An installable Farcaster web client with customizable feeds for friends, channels, starter packs, and signer apps. Includes signer-app labels and filters, Network School vote/burn badges, Farcaster Stats integration, bulk follow/unfollow tools, threaded conversations, miniapps, tipping, notifications, and themes. Bring your own QStorage or Pinata credentials for image uploads.
+- Developer: [mvr](https://vibeshift.onchain.cooking/p/mvr)
+- Link(s): [website](https://vibeshift.onchain.cooking) | [social](https://warpcats.com/vibeshift)
+- Pure hypersnap? ✅ (Core social reads and writes use our own Hypersnap node through an indexed backend. Some metadata and authentication flows still use Farcaster services; wallets, storage, and tipping are separate integrations.)
 
 ## Applications
 
