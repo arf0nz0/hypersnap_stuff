@@ -84,6 +84,13 @@ Template example, no screenshot:
 - Pure hypersnap? ✅ (Social reads/writes and signer authorization use Hypersnap, not Neynar or Farcaster-hosted APIs/login. Opencaster uses its own access-restricted Hypersnap node as primary, with `haatz.quilibrium.com` as fallback. The hosted gateway and media use Cloudflare; optional WalletConnect uses Reown's relay.)
 
 ### Quilcast
+
+<a href="images/quilcast.jpg" target="_blank">
+  <img src="images/quilcast_400w.jpg"
+       alt="Quilcast screenshot"
+       width="400">
+</a>
+
 - Description: a fast, open-source Farcaster web client that talks to Hypersnap straight from the browser. Feeds, threads, notifications, posting, permissionless signup, multiple accounts, mini apps and MySpace-style profile looks.
 - Developer: [borodutch](https://quilcast.com/u/borodutch)
 - Link(s): [website](https://quilcast.com) | [source](https://github.com/backmeupplz/quilcast) | [social](https://quilcast.com/u/quilcast)
