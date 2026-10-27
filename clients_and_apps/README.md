@@ -15,6 +15,7 @@ This is a list of hypersnap-compatible clients and applications.
   - [Vibeshift](#vibeshift)
 - [Applications](#applications)
   - [Forkcaster 🍴](#forkcaster-)
+- [Other Neat Stuff](#other-neat-stuff)
 
 **Note that this list does not vouch for the security of any project: due diligence projects and developers yourself before trusting any with your keys!** ☝️😺
 
@@ -28,6 +29,8 @@ Template example:
 - Link(s): [website](https://www.quorummessenger.com/)
 - Pure hypersnap? ✅/no (and add details if you want)
 ```
+
+*Pure hypersnap?* relevant for clients and apps to show where the featureset uses hypersnap in lieu of snapchain nodes/neynar API/farcaster API: read/write operations (casts, profile, account management), communications, etc.. For example, if your client uses farcaster's API for certain features like direct messages, it should be detailed here for clarity.
 
 ## Clients
 
@@ -86,3 +89,5 @@ Template example:
 - Developer: [decent-artlu](https://forkcaster.xyz/decent-artlu)
 - Link(s): [forkcaster](https://forkcaster.xyz), [warpcats](https://warpcats.com), [/transparency](https://forkcaster.xyz/transparency)
 - Pure hypersnap? **no**, attempts to simulate flagship Farcaster experience
+
+## Other Neat Stuff
