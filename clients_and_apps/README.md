@@ -47,11 +47,13 @@ Template example:
 - Pure hypersnap? ✅ (All Farcaster data: casts, profiles, follows, reactions, threads and the webhook, comes from one Hypersnap node - haatz.quilibrium.com.)
 
 ### meowdy
+
 <a href="https://media.firefly.land/farcaster/26500e46-88fc-4688-a689-b1ebf60f8b50.png">
   <img src="https://media.firefly.land/farcaster/26500e46-88fc-4688-a689-b1ebf60f8b50.png"
        alt="meowdy screenshot"
        width="400">
 </a>
+
 - Description: a CLI and TUI hypersnap client for terminals, scripting, agents and more.
 - Status: unreleased
 - Developer: [arfonzo](https://warpcats.com/arfonzo)
