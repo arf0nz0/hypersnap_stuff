@@ -36,6 +36,13 @@ This is a list of hypersnap-compatible clients and applications.
 - Pure hypersnap? ✅ (By default, with support for multiple nodes and protocols.)
 
 ### Linkcast
+
+<a href="https://linkcast.xyz/screenshots/linkcast.png" target="_blank">
+  <img src="https://linkcast.xyz/screenshots/linkcast.png"
+       alt="Linkcast screenshot"
+       width="400">
+</a>
+
 - Description: Discover links on Farcaster.
 - Developer: [ghostlinkz.eth](https://warpcats.com/ghostlinkz.eth)
 - Link(s): [website](https://linkcast.xyz) | [social](https://warpcats.com/linkcast)
