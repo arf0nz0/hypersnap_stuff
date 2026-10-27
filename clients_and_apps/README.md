@@ -7,7 +7,7 @@ This is a list of hypersnap-compatible clients and applications.
 - [Clients](#clients)
   - [GenyCaster](#genycaster)
   - [Linkcast](#linkcast)
-  - [meowdy (unreleased)](#meowdy-unreleased)
+  - [meowdy](#meowdy)
   - [Opencaster](#opencaster)
   - [Quilcast](#quilcast)
   - [Quorum](#quorum)
@@ -46,8 +46,9 @@ Template example:
 - Link(s): [website](https://linkcast.xyz) | [social](https://warpcats.com/linkcast)
 - Pure hypersnap? ✅ (All Farcaster data: casts, profiles, follows, reactions, threads and the webhook, comes from one Hypersnap node - haatz.quilibrium.com.)
 
-### meowdy (unreleased)
+### meowdy
 - Description: a CLI and TUI hypersnap client for terminals, scripting, agents and more.
+- Status: unreleased
 - Developer: [arfonzo](https://warpcats.com/arfonzo)
 - Link(s): [demo video](https://x.com/arfonzo/status/2112353529180365281)
 - Pure hypersnap? ✅
