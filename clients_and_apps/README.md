@@ -116,6 +116,11 @@ This is a list of hypersnap-compatible clients and applications.
 
 ## Other Neat Stuff
 
+### Charge Sheet
+- Description: a running count of Balajis's public statements, graded against his own Network Code rules.
+- Developer: [geesmike](http://warpcats.com/geesmike)
+- Link(s): [Charge Sheet](https://charge-sheet-two.vercel.app/)
+
 ## Add Your Project
 If you'd like your project to be added, please get in touch or submit a PR for review. Follow the alphabetical sort. 3 links maximum.
 
