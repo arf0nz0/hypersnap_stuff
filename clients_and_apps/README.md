@@ -8,6 +8,7 @@ This is a list of hypersnap-compatible clients and applications.
 
 - [Clients](#clients)
   - [GenyCaster](#genycaster)
+  - [HomieHouse](#homiehouse)
   - [Linkcast](#linkcast)
   - [meowdy](#meowdy)
   - [Opencaster](#opencaster)
@@ -18,6 +19,7 @@ This is a list of hypersnap-compatible clients and applications.
 - [Applications](#applications)
   - [Forkcaster 🍴](#forkcaster-)
 - [Other Neat Stuff](#other-neat-stuff)
+  - [Charge Sheet](#charge-sheet)
 - [Add Your Project](#add-your-project)
 
 ## Clients
@@ -34,6 +36,12 @@ This is a list of hypersnap-compatible clients and applications.
 - Developer: [GenyLeap](https://genyleap.com)
 - Link(s): [website](https://genycaster.xyz)
 - Pure hypersnap? ✅ (By default, with support for multiple nodes and protocols.)
+
+### HomieHouse
+- Description: A client and learning hub powered by Hypersnap, with cast-based learning lessons.
+- Developer: [auntiehomie](https://github.com/auntiehomie)
+- Link(s): [website](https://homiehouse.app) | [source](https://github.com/auntiehomie/homiehouse)
+- Pure hypersnap? ✅ (Core social reads, writes, and signer authorization use Hypersnap. Operators can configure a personal node with Haatz as a fallback. AI and web search use separate providers.)
 
 ### Linkcast
 
@@ -111,7 +119,7 @@ This is a list of hypersnap-compatible clients and applications.
 
 - Description: drop-in replacement for any farcaster or warpcast URL, letting users decide which client to use
 - Developer: [decent-artlu](https://forkcaster.xyz/decent-artlu)
-- Link(s): [forkcaster](https://forkcaster.xyz), [warpcats](https://warpcats.com), [/transparency](https://forkcaster.xyz/transparency)
+- Link(s): [forkcaster](https://forkcaster.xyz) | [warpcats](https://warpcats.com) | [/transparency](https://forkcaster.xyz/transparency)
 - Pure hypersnap? **no**, attempts to simulate flagship Farcaster experience
 
 ## Other Neat Stuff
