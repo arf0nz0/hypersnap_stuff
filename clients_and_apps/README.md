@@ -9,6 +9,7 @@ This is a list of hypersnap-compatible clients and applications.
 - [Clients](#clients)
   - [GenyCaster](#genycaster)
   - [HomieHouse](#homiehouse)
+  - [Juke](#juke)
   - [Linkcast](#linkcast)
   - [meowdy](#meowdy)
   - [Opencaster](#opencaster)
@@ -42,6 +43,19 @@ This is a list of hypersnap-compatible clients and applications.
 - Developer: [auntiehomie](https://github.com/auntiehomie)
 - Link(s): [website](https://homiehouse.app) | [source](https://github.com/auntiehomie/homiehouse)
 - Pure hypersnap? ✅ (Core social reads, writes, and signer authorization use Hypersnap. Operators can configure a personal node with Haatz as a fallback. AI and web search use separate providers.)
+
+### Juke
+
+<a href="https://juke.audio/screenshot.PNG" target="_blank">
+  <img src="https://juke.audio/screenshot.PNG"
+       alt="Juke screenshot"
+       width="400">
+</a>
+
+- Description: a Farcaster client for iOS, Android and web built around live audio spaces. Host or join rooms while browsing your feed, casting and reacting, plus voice notes and mini apps.
+- Developer: [nickysap](https://farcaster.xyz/nickysap)
+- Link(s): [website](https://juke.audio) | [source](https://github.com/99darwin/farcaster-audio)
+- Pure hypersnap? no (feeds, profiles, threads, notifications, reactions, follows and all writes go to Juke's own self-hosted Hypersnap node. Outside Hypersnap: mini-app search uses Neynar until Hypersnap supports it, Farcaster Spaces interop and Direct Casts use farcaster.xyz's client API, audio runs on LiveKit, and media uploads go to Cloudinary/S3.)
 
 ### Linkcast
 
