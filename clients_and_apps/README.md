@@ -19,6 +19,7 @@ This is a list of hypersnap-compatible clients and applications.
   - [Vibeshift](#vibeshift)
 - [Applications](#applications)
   - [Forkcaster 🍴](#forkcaster-)
+  - [snapdiff](#snapdiff)
 - [Other Neat Stuff](#other-neat-stuff)
   - [Charge Sheet](#charge-sheet)
 - [Add Your Project](#add-your-project)
@@ -135,6 +136,14 @@ This is a list of hypersnap-compatible clients and applications.
 - Developer: [decent-artlu](https://forkcaster.xyz/decent-artlu)
 - Link(s): [forkcaster](https://forkcaster.xyz) | [warpcats](https://warpcats.com) | [/transparency](https://forkcaster.xyz/transparency)
 - Pure hypersnap? **no**, attempts to simulate flagship Farcaster experience
+
+### snapdiff
+- Description: a read-only comparator that watches Hypersnap and Snapchain nodes side by side. Per-FID cast presence, which node or whole network is missing a cast, shard stalls, and client health, on a public dashboard with a JSON API. Add your own node by URL. Nothing is written and no keys are held.
+- Developer: [schmidtiest](https://warpcats.com/schmidtiest.eth)
+- Link(s):
+    [dashboard](https://snapdiff.schmidtiest.xyz);
+    [source](https://github.com/schmrdty/snapdiff)
+- Pure hypersnap? no, by design (it compares the two networks, so it reads Hypersnap nodes and one Snapchain node. Reads only: no Neynar or Farcaster API, no signer, no writes. The Snapchain side uses Merkle's public node, with a hosted fallback only if that node refuses.)
 
 ## Other Neat Stuff
 
