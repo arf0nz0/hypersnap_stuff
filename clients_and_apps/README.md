@@ -140,10 +140,7 @@ This is a list of hypersnap-compatible clients and applications.
 ### snapdiff
 - Description: a read-only comparator that watches Hypersnap and Snapchain nodes side by side. Per-FID cast presence, which node or whole network is missing a cast, shard stalls, and client health, on a public dashboard with a JSON API. Add your own node by URL. Nothing is written and no keys are held.
 - Developer: [schmidtiest](https://warpcats.com/schmidtiest.eth)
-- Link(s):
-    [dashboard](https://snapdiff.schmidtiest.xyz);
-    [source](https://github.com/schmrdty/snapdiff)
-    [telegram bot](https://t.me/snapdiff_bot)
+- Link(s): [dashboard](https://snapdiff.schmidtiest.xyz) | [source](https://github.com/schmrdty/snapdiff) | [telegram bot](https://t.me/snapdiff_bot)
 - Pure hypersnap? no, by design (it compares the two networks, so it reads Hypersnap nodes and one Snapchain node. Reads only: no Neynar or Farcaster API, no signer, no writes. The Snapchain side uses Merkle's public node, with a hosted fallback only if that node refuses.)
 
 ## Other Neat Stuff
