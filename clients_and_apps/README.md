@@ -69,7 +69,7 @@ This is a list of hypersnap-compatible clients and applications.
 - Description: Discover links on Farcaster.
 - Developer: [ghostlinkz.eth](https://warpcats.com/ghostlinkz.eth)
 - Link(s): [website](https://linkcast.xyz) | [social](https://warpcats.com/linkcast)
-- Pure hypersnap? ✅ (All Farcaster data: casts, profiles, follows, reactions, threads and the webhook, comes from one Hypersnap node - haatz.quilibrium.com.)
+- Pure hypersnap? No (Hypersnap is the main source: casts, profiles, follows, reactions, threads and the webhook come from a Hypersnap node, haatz.quilibrium.com. Linkcast also reads Snapchain every 5 minutes, through Farcaster's public node snap.farcaster.xyz, to pick up casts and Farcaster Articles that never reach Hypersnap, along with the profiles of users who are only on Snapchain.)
 
 ### meowdy
 
