@@ -15,6 +15,7 @@ This is a list of hypersnap-compatible clients and applications.
   - [Opencaster](#opencaster)
   - [Quilcast](#quilcast)
   - [Quorum](#quorum)
+  - [Renegade](#renegade)
   - [Terminus](#terminus)
   - [Vibeshift](#vibeshift)
 - [Applications](#applications)
@@ -109,6 +110,12 @@ This is a list of hypersnap-compatible clients and applications.
 - Developer: [Quilibrium](https://github.com/QuilibriumNetwork/)
 - Link(s): [website](https://www.quorummessenger.com/)
 - Pure hypersnap? ✅
+
+### Renegade
+- Description: an independent, installable web client that reads and writes Hypersnap straight from the browser. Lanes for Home, Trending, channels and searches that work signed out, threads and Markdown articles, scheduled posts, stickers, emoji reactions, themes and Quilcast profile looks.
+- Developer: [geesmike](https://warpcats.com/geesmike)
+- Link(s): [website](https://www.hyperenegade.xyz)
+- Pure hypersnap? ✅ (Reads and writes go to Hypersnap nodes: hypersnap.imgnai.com by default, haatz.quilibrium.com as backup, or any node set in Settings. Sign-in adds a browser-held key with gasless self-signed messages from your wallet or recovery phrase, or creates a native Hypersnap account; no Neynar or Farcaster API. Outside Hypersnap: media uploads go to public Blossom servers, channel images come from Farcaster's public channel API until engine V24, link previews and a submit relay run on Renegade's own server, WalletConnect uses Reown's relay, and the optional spam labels and profile looks come from Quilcast.)
 
 ### Terminus
 - Description: A lightweight, native iOS client for Hypersnap. Feeds, threads, channels, notifications and posting, with your keys kept on your iPhone.
