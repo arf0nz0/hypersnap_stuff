@@ -16,6 +16,7 @@ This is a list of hypersnap-compatible clients and applications.
   - [Quilcast](#quilcast)
   - [Quorum](#quorum)
   - [Renegade](#renegade)
+  - [TabbyCats](#tabbycats)
   - [Terminus](#terminus)
   - [Vibeshift](#vibeshift)
 - [Applications](#applications)
@@ -116,6 +117,19 @@ This is a list of hypersnap-compatible clients and applications.
 - Developer: [geesmike](https://warpcats.com/geesmike)
 - Link(s): [website](https://www.hyperenegade.xyz)
 - Pure hypersnap? ✅ (Reads and writes go to Hypersnap nodes: hypersnap.imgnai.com by default, haatz.quilibrium.com as backup, or any node set in Settings. Sign-in adds a browser-held key with gasless self-signed messages from your wallet or recovery phrase, or creates a native Hypersnap account; no Neynar or Farcaster API. Outside Hypersnap: media uploads go to public Blossom servers, channel images come from Farcaster's public channel API until engine V24, link previews and a submit relay run on Renegade's own server, WalletConnect uses Reown's relay, and the optional spam labels and profile looks come from Quilcast.)
+
+### TabbyCats
+
+<a href="images/tabbycats.jpg" target="_blank">
+  <img src="images/tabbycats_400w.jpg"
+       alt="TabbyCats screenshot"
+       width="400">
+</a>
+
+- Description: an open-source, Trello-style web client for Farcaster and Hypersnap. Line up feeds side by side as columns: the live firehose, Following, channels and your own lists of accounts, each showing both networks, Farcaster only or Hypersnap only. Share any list as a link, mute accounts across every column, and cast, reply, like and recast.
+- Developer: [tabbycats](https://warpcats.com/tabbycats)
+- Link(s): [website](https://tabbycats.party) | [source](https://github.com/justinquidli/tabbycats)
+- Pure hypersnap? no, by design (it's a client for both networks. Hypersnap reads and writes go straight from the browser to a public Hypersnap node, haatz.quilibrium.com, falling back to hypersnap.rainonmeproductions.com if it's down; either can be picked in About. Hypersnap sign-in uses your recovery phrase once, in the browser, to add a 90-day browser-held key; works for native accounts too. No Neynar. Outside Hypersnap: Farcaster feeds read Farcaster's public Snapchain node, snap.farcaster.xyz, which also tells which app wrote a cast for the per-network filters; Farcaster sign-in uses farcaster.xyz's signer API, and Farcaster posts go through a relay on TabbyCats' own Cloudflare Worker; the channel directory comes from Farcaster's public channel API; shared-feed short links are stored on that Worker.)
 
 ### Terminus
 - Description: A lightweight, native iOS client for Hypersnap. Feeds, threads, channels, notifications and posting, with your keys kept on your iPhone.
